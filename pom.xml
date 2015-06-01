@@ -24,4 +24,10 @@
 	<build>
 		<finalName>docker-app-test</finalName>
 	</build>
+	<scm>
+        	<url>https://github.com/mateuspegoraro/hello-world/tree/master/src</url>
+       	 <connection>scm:git:ssh://git@github.com:mateuspegoraro/hello-world.git</connection>
+        	<developerConnection>scm:git:ssh://git@github.com:mateuspegoraro/hello-world.git</developerConnection>
+	        <tag>Master</tag>
+    	</scm>
 </project>
